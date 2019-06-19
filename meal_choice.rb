@@ -1,3 +1,2 @@
-def meal_choice(a, b)
+def meal_choice(meat)
 end
-puts("meats", "vegan")
